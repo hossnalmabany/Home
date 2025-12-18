@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  color: #1a1a1a;
+}
+
+.hero {
+  background: #0b1c2d;
+  color: #fff;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.btn {
+  display: inline-block;
+  margin: 10px;
+  padding: 12px 24px;
+  background: #cfa44a;
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.whatsapp {
+  background: #25d366;
+  color: #fff;
+}
+
+.lang {
+  display: block;
+  margin-top: 15px;
+  color: #fff;
+  font-size: 14px;
+}
